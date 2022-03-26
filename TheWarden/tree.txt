@@ -1,0 +1,300 @@
+¦   ¦   ¦           ¦       source-to-output.tab_i.len
+¦   ¦   ¦           ¦
+¦   ¦   ¦           +---jvm
+¦   ¦   ¦           ¦   L---kotlin
+¦   ¦   ¦           ¦           class-attributes.tab
+¦   ¦   ¦           ¦           class-attributes.tab.keystream
+¦   ¦   ¦           ¦           class-attributes.tab.keystream.len
+¦   ¦   ¦           ¦           class-attributes.tab.len
+¦   ¦   ¦           ¦           class-attributes.tab.values.at
+¦   ¦   ¦           ¦           class-attributes.tab_i
+¦   ¦   ¦           ¦           class-attributes.tab_i.len
+¦   ¦   ¦           ¦           class-fq-name-to-source.tab
+¦   ¦   ¦           ¦           class-fq-name-to-source.tab.keystream
+¦   ¦   ¦           ¦           class-fq-name-to-source.tab.keystream.len
+¦   ¦   ¦           ¦           class-fq-name-to-source.tab.len
+¦   ¦   ¦           ¦           class-fq-name-to-source.tab.values.at
+¦   ¦   ¦           ¦           class-fq-name-to-source.tab_i
+¦   ¦   ¦           ¦           class-fq-name-to-source.tab_i.len
+¦   ¦   ¦           ¦           constants.tab
+¦   ¦   ¦           ¦           constants.tab.keystream
+¦   ¦   ¦           ¦           constants.tab.keystream.len
+¦   ¦   ¦           ¦           constants.tab.len
+¦   ¦   ¦           ¦           constants.tab.values.at
+¦   ¦   ¦           ¦           constants.tab_i
+¦   ¦   ¦           ¦           constants.tab_i.len
+¦   ¦   ¦           ¦           internal-name-to-source.tab
+¦   ¦   ¦           ¦           internal-name-to-source.tab.keystream
+¦   ¦   ¦           ¦           internal-name-to-source.tab.keystream.len
+¦   ¦   ¦           ¦           internal-name-to-source.tab.len
+¦   ¦   ¦           ¦           internal-name-to-source.tab.values.at
+¦   ¦   ¦           ¦           internal-name-to-source.tab_i
+¦   ¦   ¦           ¦           internal-name-to-source.tab_i.len
+¦   ¦   ¦           ¦           java-sources-proto-map.tab
+¦   ¦   ¦           ¦           java-sources-proto-map.tab.keystream
+¦   ¦   ¦           ¦           java-sources-proto-map.tab.keystream.len
+¦   ¦   ¦           ¦           java-sources-proto-map.tab.len
+¦   ¦   ¦           ¦           java-sources-proto-map.tab.values.at
+¦   ¦   ¦           ¦           java-sources-proto-map.tab_i
+¦   ¦   ¦           ¦           java-sources-proto-map.tab_i.len
+¦   ¦   ¦           ¦           package-parts.tab
+¦   ¦   ¦           ¦           package-parts.tab.keystream
+¦   ¦   ¦           ¦           package-parts.tab.keystream.len
+¦   ¦   ¦           ¦           package-parts.tab.len
+¦   ¦   ¦           ¦           package-parts.tab.values.at
+¦   ¦   ¦           ¦           package-parts.tab_i
+¦   ¦   ¦           ¦           package-parts.tab_i.len
+¦   ¦   ¦           ¦           proto.tab
+¦   ¦   ¦           ¦           proto.tab.keystream
+¦   ¦   ¦           ¦           proto.tab.keystream.len
+¦   ¦   ¦           ¦           proto.tab.len
+¦   ¦   ¦           ¦           proto.tab.values.at
+¦   ¦   ¦           ¦           proto.tab_i
+¦   ¦   ¦           ¦           proto.tab_i.len
+¦   ¦   ¦           ¦           source-to-classes.tab
+¦   ¦   ¦           ¦           source-to-classes.tab.keystream
+¦   ¦   ¦           ¦           source-to-classes.tab.keystream.len
+¦   ¦   ¦           ¦           source-to-classes.tab.len
+¦   ¦   ¦           ¦           source-to-classes.tab.values.at
+¦   ¦   ¦           ¦           source-to-classes.tab_i
+¦   ¦   ¦           ¦           source-to-classes.tab_i.len
+¦   ¦   ¦           ¦           subtypes.tab
+¦   ¦   ¦           ¦           subtypes.tab.keystream
+¦   ¦   ¦           ¦           subtypes.tab.keystream.len
+¦   ¦   ¦           ¦           subtypes.tab.len
+¦   ¦   ¦           ¦           subtypes.tab.values.at
+¦   ¦   ¦           ¦           subtypes.tab_i
+¦   ¦   ¦           ¦           subtypes.tab_i.len
+¦   ¦   ¦           ¦           supertypes.tab
+¦   ¦   ¦           ¦           supertypes.tab.keystream
+¦   ¦   ¦           ¦           supertypes.tab.keystream.len
+¦   ¦   ¦           ¦           supertypes.tab.len
+¦   ¦   ¦           ¦           supertypes.tab.values.at
+¦   ¦   ¦           ¦           supertypes.tab_i
+¦   ¦   ¦           ¦           supertypes.tab_i.len
+¦   ¦   ¦           ¦
+¦   ¦   ¦           L---lookups
+¦   ¦   ¦                   counters.tab
+¦   ¦   ¦                   file-to-id.tab
+¦   ¦   ¦                   file-to-id.tab.keystream
+¦   ¦   ¦                   file-to-id.tab.keystream.len
+¦   ¦   ¦                   file-to-id.tab.len
+¦   ¦   ¦                   file-to-id.tab.values.at
+¦   ¦   ¦                   file-to-id.tab_i
+¦   ¦   ¦                   file-to-id.tab_i.len
+¦   ¦   ¦                   id-to-file.tab
+¦   ¦   ¦                   id-to-file.tab.keystream
+¦   ¦   ¦                   id-to-file.tab.keystream.len
+¦   ¦   ¦                   id-to-file.tab.len
+¦   ¦   ¦                   id-to-file.tab.values.at
+¦   ¦   ¦                   id-to-file.tab_i
+¦   ¦   ¦                   id-to-file.tab_i.len
+¦   ¦   ¦                   lookups.tab
+¦   ¦   ¦                   lookups.tab.keystream
+¦   ¦   ¦                   lookups.tab.keystream.len
+¦   ¦   ¦                   lookups.tab.len
+¦   ¦   ¦                   lookups.tab.values
+¦   ¦   ¦                   lookups.tab.values.at
+¦   ¦   ¦                   lookups.tab.values.s
+¦   ¦   ¦                   lookups.tab_i
+¦   ¦   ¦                   lookups.tab_i.len
+¦   ¦   ¦
+¦   ¦   +---outputs
+¦   ¦   ¦   +---apk
+¦   ¦   ¦   ¦   L---debug
+¦   ¦   ¦   ¦           app-debug.apk
+¦   ¦   ¦   ¦           output-metadata.json
+¦   ¦   ¦   ¦
+¦   ¦   ¦   L---logs
+¦   ¦   ¦           manifest-merger-debug-report.txt
+¦   ¦   ¦
+¦   ¦   L---tmp
+¦   ¦       +---compileDebugJavaWithJavac
+¦   ¦       ¦       source-classes-mapping.txt
+¦   ¦       ¦
+¦   ¦       L---kotlin-classes
+¦   ¦           L---debug
+¦   ¦               +---com
+¦   ¦               ¦   L---example
+¦   ¦               ¦       L---myapplication333
+¦   ¦               ¦           ¦   AddProductActivity$onCreate$1.class
+¦   ¦               ¦           ¦   AddProductActivity$onCreate$2.class
+¦   ¦               ¦           ¦   AddProductActivity.class
+¦   ¦               ¦           ¦   AddRoomActivity$onCreate$1.class
+¦   ¦               ¦           ¦   AddRoomActivity$onCreate$2.class
+¦   ¦               ¦           ¦   AddRoomActivity.class
+¦   ¦               ¦           ¦   DelProductActivity$onCreate$1.class
+¦   ¦               ¦           ¦   DelProductActivity$onCreate$2.class
+¦   ¦               ¦           ¦   DelProductActivity.class
+¦   ¦               ¦           ¦   DelRoomActivity$onCreate$1.class
+¦   ¦               ¦           ¦   DelRoomActivity$onCreate$2.class
+¦   ¦               ¦           ¦   DelRoomActivity.class
+¦   ¦               ¦           ¦   EditProductActivity$onCreate$1.class
+¦   ¦               ¦           ¦   EditProductActivity$onCreate$2.class
+¦   ¦               ¦           ¦   EditProductActivity.class
+¦   ¦               ¦           ¦   EditProductStart$onCreate$1.class
+¦   ¦               ¦           ¦   EditProductStart$onCreate$2.class
+¦   ¦               ¦           ¦   EditProductStart.class
+¦   ¦               ¦           ¦   ElemActivity$onCreate$1.class
+¦   ¦               ¦           ¦   ElemActivity$onCreate$2.class
+¦   ¦               ¦           ¦   ElemActivity$onCreate$3.class
+¦   ¦               ¦           ¦   ElemActivity.class
+¦   ¦               ¦           ¦   FirstFragment.class
+¦   ¦               ¦           ¦   MainActivity.class
+¦   ¦               ¦           ¦   SearchActivity$onCreate$1.class
+¦   ¦               ¦           ¦   SearchActivity$onCreate$2.class
+¦   ¦               ¦           ¦   SearchActivity$onCreate$3.class
+¦   ¦               ¦           ¦   SearchActivity$onCreate$4.class
+¦   ¦               ¦           ¦   SearchActivity.class
+¦   ¦               ¦           ¦   SecondFragment.class
+¦   ¦               ¦           ¦
+¦   ¦               ¦           +---adapter
+¦   ¦               ¦           ¦       MyAdapter$ViewHolder.class
+¦   ¦               ¦           ¦       MyAdapter.class
+¦   ¦               ¦           ¦
+¦   ¦               ¦           +---db
+¦   ¦               ¦           ¦       MyDbClass.class
+¦   ¦               ¦           ¦       MyDbHelper.class
+¦   ¦               ¦           ¦       MyDbManager.class
+¦   ¦               ¦           ¦       ProductObj.class
+¦   ¦               ¦           ¦
+¦   ¦               ¦           L---ui
+¦   ¦               ¦               L---main
+¦   ¦               ¦                       PageViewModel.class
+¦   ¦               ¦                       PlaceholderFragment$Companion.class
+¦   ¦               ¦                       PlaceholderFragment.class
+¦   ¦               ¦                       SectionsPagerAdapter.class
+¦   ¦               ¦                       SectionsPagerAdapterKt.class
+¦   ¦               ¦
+¦   ¦               L---META-INF
+¦   ¦                       app_debug.kotlin_module
+¦   ¦
+¦   +---libs
+¦   L---src
+¦       +---androidTest
+¦       ¦   L---java
+¦       ¦       L---com
+¦       ¦           L---example
+¦       ¦               L---myapplication333
+¦       ¦                       ExampleInstrumentedTest.kt
+¦       ¦
+¦       +---main
+¦       ¦   ¦   AndroidManifest.xml
+¦       ¦   ¦
+¦       ¦   +---java
+¦       ¦   ¦   L---com
+¦       ¦   ¦       L---example
+¦       ¦   ¦           L---myapplication333
+¦       ¦   ¦               ¦   AddProductActivity.kt
+¦       ¦   ¦               ¦   AddRoomActivity.kt
+¦       ¦   ¦               ¦   DelProductActivity.kt
+¦       ¦   ¦               ¦   DelRoomActivity.kt
+¦       ¦   ¦               ¦   EditProductActivity.kt
+¦       ¦   ¦               ¦   EditProductStart.kt
+¦       ¦   ¦               ¦   ElemActivity.kt
+¦       ¦   ¦               ¦   FirstFragment.kt
+¦       ¦   ¦               ¦   MainActivity.kt
+¦       ¦   ¦               ¦   SearchActivity.kt
+¦       ¦   ¦               ¦   SecondFragment.kt
+¦       ¦   ¦               ¦
+¦       ¦   ¦               +---adapter
+¦       ¦   ¦               ¦       MyAdapter.kt
+¦       ¦   ¦               ¦
+¦       ¦   ¦               +---db
+¦       ¦   ¦               ¦       MyDbClass.kt
+¦       ¦   ¦               ¦       MyDbHelper.kt
+¦       ¦   ¦               ¦       MyDbManager.kt
+¦       ¦   ¦               ¦       ProductObj.kt
+¦       ¦   ¦               ¦
+¦       ¦   ¦               L---ui
+¦       ¦   ¦                   L---main
+¦       ¦   ¦                           PageViewModel.kt
+¦       ¦   ¦                           PlaceholderFragment.kt
+¦       ¦   ¦                           SectionsPagerAdapter.kt
+¦       ¦   ¦
+¦       ¦   L---res
+¦       ¦       +---drawable
+¦       ¦       ¦       ic_launcher_background.xml
+¦       ¦       ¦
+¦       ¦       +---drawable-v24
+¦       ¦       ¦       ic_launcher_foreground.xml
+¦       ¦       ¦
+¦       ¦       +---layout
+¦       ¦       ¦       activity_elem.xml
+¦       ¦       ¦       activity_main.xml
+¦       ¦       ¦       activity_search.xml
+¦       ¦       ¦       add_a_product.xml
+¦       ¦       ¦       add_a_room.xml
+¦       ¦       ¦       del_a_product.xml
+¦       ¦       ¦       del_a_room.xml
+¦       ¦       ¦       edit_a_product.xml
+¦       ¦       ¦       edit_product_start.xml
+¦       ¦       ¦       fragment2_main.xml
+¦       ¦       ¦       fragment_main.xml
+¦       ¦       ¦       rv_layout.xml
+¦       ¦       ¦
+¦       ¦       +---mipmap-anydpi-v26
+¦       ¦       ¦       ic_launcher.xml
+¦       ¦       ¦       ic_launcher_round.xml
+¦       ¦       ¦
+¦       ¦       +---mipmap-hdpi
+¦       ¦       ¦       ic_launcher.webp
+¦       ¦       ¦       ic_launcher_round.webp
+¦       ¦       ¦
+¦       ¦       +---mipmap-mdpi
+¦       ¦       ¦       ic_launcher.webp
+¦       ¦       ¦       ic_launcher_round.webp
+¦       ¦       ¦
+¦       ¦       +---mipmap-xhdpi
+¦       ¦       ¦       ic_launcher.webp
+¦       ¦       ¦       ic_launcher_round.webp
+¦       ¦       ¦
+¦       ¦       +---mipmap-xxhdpi
+¦       ¦       ¦       ic_launcher.webp
+¦       ¦       ¦       ic_launcher_round.webp
+¦       ¦       ¦
+¦       ¦       +---mipmap-xxxhdpi
+¦       ¦       ¦       ic_launcher.webp
+¦       ¦       ¦       ic_launcher_round.webp
+¦       ¦       ¦
+¦       ¦       +---navigation
+¦       ¦       ¦       nav_graph.xml
+¦       ¦       ¦
+¦       ¦       +---values
+¦       ¦       ¦       colors.xml
+¦       ¦       ¦       dimens.xml
+¦       ¦       ¦       strings.xml
+¦       ¦       ¦       themes.xml
+¦       ¦       ¦
+¦       ¦       +---values-land
+¦       ¦       ¦       dimens.xml
+¦       ¦       ¦
+¦       ¦       +---values-night
+¦       ¦       ¦       themes.xml
+¦       ¦       ¦
+¦       ¦       +---values-w1240dp
+¦       ¦       ¦       dimens.xml
+¦       ¦       ¦
+¦       ¦       +---values-w600dp
+¦       ¦       ¦       dimens.xml
+¦       ¦       ¦
+¦       ¦       L---values-w820dp
+¦       ¦               dimens.xml
+¦       ¦
+¦       L---test
+¦           L---java
+¦               L---com
+¦                   L---example
+¦                       L---myapplication333
+¦                               ExampleUnitTest.kt
+¦
++---build
+¦   L---kotlin
+¦       L---sessions
+L---gradle
+    L---wrapper
+            gradle-wrapper.jar
+            gradle-wrapper.properties
+
+
+D:\AndroidStudioProjects\MyApplication333>
